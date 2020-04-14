@@ -1,0 +1,38 @@
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+ background: url(water.jpg) no-repeat 50%;
+    background-size: cover;
+    background-attachment: inherit;
+    color:forestgreen;
+    font-weight: bold;
+
+}
+h1{
+   text-align: center;
+    width: 80%;
+    margin-left: 60px;
+    padding-bottom: 100px;
+    
+}
+.main-video{
+  margin: 0 auto;
+   display: block;
+   width: 319px;
+  border: 25px dotted green;
+
+}
+.main-text p{
+      font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    width: 1350px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+footer{
+    margin-top: 50px;
+}
